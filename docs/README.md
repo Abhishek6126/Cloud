@@ -54,8 +54,8 @@ The simulation provides insightful metrics and visualizations, including:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhishek6126/Cloud-Proj.git
-   cd Cloud-Proj
+   git clone https://github.com/Abhishek6126/Cloud.git
+   cd Cloud
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
