@@ -1,0 +1,16 @@
+{
+    "simulation": {
+        "time_slots": 100,  
+        "area_size": 1000
+    },
+    "uav": {
+        "count": 3, 
+        "max_speed": 20,
+        "coverage_radius": 200,
+        "flying_height": 50
+    },
+    "iot": {
+        "device_count": 500
+    },
+    "log_file": "results/logs/simulation.log"
+}
